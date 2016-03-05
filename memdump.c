@@ -1,3 +1,6 @@
+# Gordon Young gjyoung1974@gmail.com
+# A Small program to dump process memory by PID
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
